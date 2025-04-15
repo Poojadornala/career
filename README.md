@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Career Guidance System
 
 The Career Guidance System is a web-based platform designed to assist students in exploring career options, providing comprehensive information on various career paths, personalized career suggestions, educational resources, and administrative tools for managing user accounts and system content.
@@ -52,3 +53,6 @@ The Career Guidance System is a web-based platform designed to assist students i
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
+=======
+# career
+>>>>>>> 93cf811e00b2a133bffe1dc0503e147da74024cd
